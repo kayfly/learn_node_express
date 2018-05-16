@@ -1,0 +1,32 @@
+{
+  "name": "node_express",
+  "version": "1.0.0",
+  "description": "learn node_express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayfly/learn_node_express.git"
+  },
+  "keywords": [
+    "961106"
+  ],
+  "author": "kayfly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kayfly/learn_node_express/issues"
+  },
+  "homepage": "https://github.com/kayfly/learn_node_express#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express3-handlebars": "^0.5.2"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.1.1",
+    "zombie": "^6.1.2"
+  }
+}
